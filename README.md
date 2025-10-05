@@ -5,7 +5,7 @@ This fork focuses on the **stand-alone audio measurement tool** that was origina
 Here you will find detailed information such as the schematic, PCB layout, bill of materials, Arduino sketches, and usage instructions.
 
 > [!NOTE]
-> Additional files and documentation will be added over the coming days.
+> Additional files and documentation will be added over the coming days (2025-10-05).
 
 <img src="img/PCB3.jpg" alt="PCB" width="1000"/>
 
