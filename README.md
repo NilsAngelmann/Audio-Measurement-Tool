@@ -6,4 +6,4 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
 
 Additional files and documentation will be added over the coming days.
 
-![Measurement Board](img/PCB3.jpg)
+![Measurement Board](PCB3.jpg)
