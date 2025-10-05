@@ -11,10 +11,24 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
 
 ---
 ## Files
-- Hardware:
-  - 2022: Original version from 2022 (KiCad 8, German) -> Schematic, PCB Layout, Geber Files, BOM
-  - 2025: Published version with corrections (KiCad 9, English) -> Schematic
-- Firmware:
+- **Hardware:**
+  - 2022: Original version from 2022
+    - Created with KiCad 8
+    - Comments in German
+    - Includes: Schematic, PCB Layout, Geber Files, BOM
+      
+  - 2025: Published version with corrections
+    - Created with KiCad 9
+    - Comments in English
+    - Includes: Schematic
+      
+- **Firmware:**
+  - Measurement-02: Version 1.1
+    - Measurement-02.ino: imports, pins, constants, variables, main loop of state machine
+    - a_setup.ino: pin modes, welcome message on screen
+    - b_menu.ino: menu to choose between error detection (DETECT) and latency measurement (BURST) mode
+    - c_detect.ino: error detection (DETECT) mode
+    - d_burst.ino: latency measurement (BURST) mode     
 
 ---
 
