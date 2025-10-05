@@ -7,3 +7,10 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
 Additional files and documentation will be added over the coming days.
 
 ![Measurement Board](PCB3.jpg)
+
+---
+
+## License
+This project is licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
