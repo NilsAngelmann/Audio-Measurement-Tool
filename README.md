@@ -11,8 +11,7 @@ Additional files and documentation will be added over the coming days.
 ---
 
 ## License
-All project files in this repository are provided under the
-[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+All project files in this repository are provided under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
 Note: This license applies to the hardware design files and firmware hosted here.
 The printed article and its photos as published in Elektor remain subject to Elektor’s publishing rights.
