@@ -28,7 +28,10 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
     - a_setup.ino: pin modes, welcome message on screen
     - b_menu.ino: menu to choose between error detection (DETECT) and latency measurement (BURST) mode
     - c_detect.ino: error detection (DETECT) mode
-    - d_burst.ino: latency measurement (BURST) mode     
+    - d_burst.ino: latency measurement (BURST) mode
+   
+> [!TIP]
+> Please refer to [Info2022](hardware/2022/Info2022.md) and [Info2025](hardware/2025/Info2025.md) before attempting to recreate this setup.
 
 ---
 
