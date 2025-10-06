@@ -15,7 +15,7 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
   - [2022](hardware/2022): Original version from 2022
     - Created with KiCad 8
     - Comments in German
-    - Includes: Schematic, PCB Layout, Geber Files, BOM
+    - Includes: Schematic, PCB Layout, Gerber Files, BOM
       
   - [2025](hardware/2025): Published version with corrections
     - Created with KiCad 9
