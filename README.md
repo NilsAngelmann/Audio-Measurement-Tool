@@ -27,7 +27,7 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
     - c_detect.ino: error detection (DETECT) mode
     - d_burst.ino: latency measurement (BURST) mode
    
-> [!TIP]
+> [!NOTE]
 > Please refer to [Info2022](hardware/2022/Info2022.md) and [Info2025](hardware/2025/Info2025.md) before attempting to recreate this setup.
 
 ---
