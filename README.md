@@ -34,9 +34,8 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
 > Please refer to [Info2022](hardware/2022/Info2022.md) and [Info2025](hardware/2025/Info2025.md) before attempting to recreate this setup.
 
 ---
-
 ### License
-All project files in this repository are provided under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) license.
+This project is licensed under the [CERN Open Hardware License Version 2 – Permissive (CERN-OHL-P)](https://cern-ohl.web.cern.ch/).
 
-Note: This license applies to the hardware design files and firmware hosted here.
+Note: This license applies to the hardware design and firmware hosted here.
 The printed article and its photos as published in Elektor remain subject to Elektor’s publishing rights.
