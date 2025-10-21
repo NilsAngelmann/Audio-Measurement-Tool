@@ -4,9 +4,6 @@ This fork focuses on the **stand-alone audio measurement tool** that was origina
 
 Here you will find detailed information such as the schematic, PCB layout, bill of materials, Arduino sketches, and usage instructions.
 
-> [!NOTE]
-> Additional files and documentation will be added over the coming days (2025-10-05).
-
 <img src="img/PCB3.jpg" alt="PCB" width="1000"/>
 
 ---
@@ -23,8 +20,8 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
     - Includes: Schematic
       
 - **Firmware:**
-  - [Measurement-02](firmware/Measurement-02): Version 1.1
-    - Measurement-02.ino: imports, pins, constants, variables, main loop of state machine
+  - [Measurement_03:](firmware/Measurement_03): Version 1.3
+    - Measurement_03.ino: imports, pins, constants, variables, main loop of state machine
     - a_setup.ino: pin modes, welcome message on screen
     - b_menu.ino: menu to choose between error detection (DETECT) and latency measurement (BURST) mode
     - c_detect.ino: error detection (DETECT) mode
