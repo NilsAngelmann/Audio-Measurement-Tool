@@ -6,6 +6,10 @@ Here you will find detailed information such as the schematic, PCB layout, bill 
 
 <img src="img/PCB3.jpg" alt="PCB" width="1000"/>
 
+
+## Demo Video on YouTube 📺
+[![YouTube Video](https://img.youtube.com/vi/QHqr9eeyrQI/0.jpg)](https://www.youtube.com/watch?v=QHqr9eeyrQI)
+
 ---
 ## Files
 - **Hardware:**
